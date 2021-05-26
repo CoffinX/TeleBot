@@ -1,1 +1,1 @@
-telebot: python -m telebot
+worker: python3 theshashank.py
